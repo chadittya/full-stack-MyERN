@@ -23,5 +23,5 @@ SIMPLE CRUD with Mysql, Express, React, Node.JS
 ```
 
 3. create database name `crud_db`
-4. run `nodemon`
-5. `npm start`
+4. run `nodemon index.js` to start backend
+5. `npm start` to start frontend
